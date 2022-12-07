@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr-x--x my_dir
+sudo mkdir 751 my_dir
