@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne "printf if $. %w2==1"
+paste - - | cut -f1
